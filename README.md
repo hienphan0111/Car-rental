@@ -25,7 +25,7 @@
   </div>
    </br>
 
-# Ruby on Rails : Reciep app project
+# Nextjs App: Car rental project
 
 # 📗 Table of Contents
 
@@ -47,7 +47,7 @@
 
 # 📖About the Project <a name="about-project"></a>
 
-The Recipe app keeps track of all your recipes, ingredients, and inventory. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe.
+
 
 <!--
 </br>
@@ -63,22 +63,15 @@ The Recipe app keeps track of all your recipes, ingredients, and inventory. It w
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- Ruby <img src="https://cdn.emojidex.com/emoji/seal/Ruby.png" width=15px>
-- Ruby on Rails <img src="./rails.png" width=15px>
-- PostgreSQL <img src="https://user-images.githubusercontent.com/80895497/142954032-f7072df9-3586-48f9-a9e0-7fdd284eb833.png" width=15px>
+- Nextjs <img src="https://cdn.emojidex.com/emoji/seal/Nextjs.png" width=15px>
+- React <img src="" width=15px>
+- MongoDB <img src="https://user-images.githubusercontent.com/80895497/142954032-f7072df9-3586-48f9-a9e0-7fdd284eb833.png" width=15px>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- Login page
-- A registration page.
-- A food list (with all CRUD implementation, except for 'update').
-- A recipes list (with all CRUD implementation, except for 'update').
-- A general shopping list view (all missing food for all your recipes and total price).
-- A list of all public recipes from other users with their names and total prices.
-- Inventories list (with all CRUD implementation, except for 'update').
-- Inventory shopping list, a shopping list, but only taking into consideration a chosen recipe and inventory.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,18 +152,6 @@ rspec spec rspec
 - Twitter: [hienphan0111](https://twitter.com/hienphan0111)
 - LinkedIn: [mr-hienphan](https://www.linkedin.com/in/hien-phan-61097b256/)
 
-👤 **Stanley Kibor**
-
-- GitHub: [@chepkok3](https://github.com/chepkok3)
-- Twitter: [@chepkok3](https://twitter.com/home)
-- LinkedIn: [@chepkok3](https://www.linkedin.com/in/kibor-stanley-350b8a123/)
-
-👤 **Joseph David**
-
-- GitHub: [@josephDavid](https://github.com/jodavid444)
-- Twitter: [@chepkok3](https://twitter.com/home)
-- LinkedIn: [@chepkok3](https://www.linkedin.com/in/kibor-stanley-350b8a123/)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
